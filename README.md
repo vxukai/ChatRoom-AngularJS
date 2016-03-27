@@ -1,6 +1,6 @@
 AngularJS Chat Room
 =====================
-一个基于AngularJS、NodeJS、Express、socket.io搭建的在线聊天室。
+一个基于AngularJS、leancloud-realtime搭建的在线聊天室。
 
 ##DEMO
 地址：http://45.79.97.45:3002/
